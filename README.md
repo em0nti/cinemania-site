@@ -2,7 +2,7 @@
 
 ## Description
 
-My own implementation of the team project [here](https://github.com/em0nti/project-amenic-6).
+My own implementation of the [team project](https://github.com/em0nti/project-amenic-6).
 
 The project is an application that allows users to browse and filter a large collection of movies. It includes features such as a homepage with trending movies, a catalog page for browsing and searching movies, and a "My Library" page where users can save movies for later viewing.
 
