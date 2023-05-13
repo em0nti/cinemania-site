@@ -1,0 +1,51 @@
+@import '../../node_modules/modern-normalize/modern-normalize.css';
+@import '../../node_modules/choices.js/src/styles/choices.scss';
+@import './utils/reset';
+@import './utils/variable';
+@import './utils/helpers';
+
+@import './base/visually-hidden';
+@import './base/fonts';
+@import './base/base';
+
+@import './layout/card-set';
+
+@import './components/container';
+@import './components/buttons/button';
+@import './components/buttons/button-main';
+@import './components/buttons/button-add';
+@import './components/buttons/button-search';
+@import './components/buttons/button-scroll-to-top';
+@import './components/rating-stars';
+
+@import './components/hero/hero-start';
+@import './components/hero/hero-home';
+@import './components/hero/hero-catalog';
+@import './components/hero/hero-library';
+
+@import './components/header';
+@import './components/footer';
+
+@import './components/card';
+@import './components/weekly-trends';
+@import './components/library-list';
+@import './components/catalog-list';
+@import './components/upcoming-this-month';
+@import './components/markup-pagination';
+@import './components/not-found-film';
+@import './components/not-found-film-library';
+
+@import './components/backdrop';
+@import './components/modal';
+
+@import './components/mobile-modal';
+@import './components/buttons/btn-swit';
+
+@import './components/modal-trailer';
+@import './components/loader';
+@import './components/modal-team';
+
+@import './components/search-form';
+@import './components/select';
+
+@import './components/modal-popup';
