@@ -21,12 +21,16 @@
     "axios": "^1.4.0",
     "choices.js": "^10.2.0",
     "modern-normalize": "^1.1.0",
-    "notiflix": "^3.2.6"
+    "notiflix": "^3.2.6",
+    "youtube-player": "^5.6.0"
   },
   "devDependencies": {
     "@parcel/transformer-sass": "latest",
+    "buffer": "^5.7.1",
     "parcel": "latest",
-    "posthtml-include": "^1.7.4"
+    "parcel-reporter-clean-dist": "^1.0.4",
+    "posthtml-include": "^1.7.4",
+    "process": "^0.11.10"
   },
   "browserslist": "> 0.5%, last 2 versions, not dead"
 }
